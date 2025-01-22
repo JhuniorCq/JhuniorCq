@@ -194,8 +194,11 @@
     <p>
       <strong>Repositorio:</strong>
       <br><br>
-      <a href="https://github.com/JhuniorCq/convertidor-musica.git" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+      <a href="https://github.com/JhuniorCq/convertidor-musica-frontend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
+      </a>
+      <a href="https://github.com/JhuniorCq/convertidor-musica-backend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Backend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Backend del Proyecto" />
       </a>
     </p>
   </div>

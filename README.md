@@ -77,7 +77,7 @@
       <strong>Repositorio:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/platos-tipicos-peru.git" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
       </a>
     </p>
   </div>
@@ -103,7 +103,7 @@
       <strong>Repositorio:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/proyecto-poke-api.git" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
       </a>
     </p>
   </div>
@@ -131,7 +131,10 @@
       <strong>Repositorio:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/policia_vs_ladron_vista.git" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
+      </a>
+      <a href="https://github.com/JhuniorCq/policia_vs_ladron_servidor.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Backend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Backend del Proyecto" />
       </a>
     </p>
   </div>
@@ -160,8 +163,11 @@
     <p>
       <strong>Repositorio:</strong>
       <br><br>
-      <a href="https://enlace-a-tu-proyecto.com" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+      <a href="https://github.com/JhuniorCq/style-hub-frontend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
+      </a>
+      <a href="https://github.com/JhuniorCq/style-hub-backend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Backend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Backend del Proyecto" />
       </a>
     </p>
   </div>
@@ -180,13 +186,15 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
       </span>
     </p>
     <p>
       <strong>Repositorio:</strong>
       <br><br>
-      <a href="https://enlace-a-tu-proyecto.com" target="_blank">
+      <a href="https://github.com/JhuniorCq/convertidor-musica.git" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
       </a>
     </p>
@@ -205,13 +213,14 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       </span>
     </p>
     <p>
       <strong>Repositorio:</strong>
       <br><br>
-      <a href="https://enlace-a-tu-proyecto.com" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+      <a href="https://github.com/JhuniorCq/proyecto-tic-tac-toe.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
       </a>
     </p>
   </div>

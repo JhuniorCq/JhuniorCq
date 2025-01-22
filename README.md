@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Jhunior / Desarrollador Frontend ✨ </h1> 
+<h1 align="center">Hola 👋 soy Jhunior / Desarrollador Frontend 💻 </h1> 
 
 <br>
 

@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋 soy Jhunior / Desarrollador Frontend ✨ </h1> 
+
 <br>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/holiver-ccora-quispe-0a0642258" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://wa.me/936128801" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="JhuniorCq" /></a>
@@ -7,44 +9,38 @@
   <a href="mailto:holiver.ccora.quispe@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://portafolio-jhunior-ccora.vercel.app/" target="_blank" ><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="JhuniorCq" /></a>
 </p>
+
 <br>
+
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
+
 <p align="left">
-👨‍💻 <strong>DESARROLLADOR WEB FRONTEND</strong>
+  👨‍💻 <strong>DESARROLLADOR WEB FRONTEND</strong>
+  
+  🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el noveno ciclo.
+  
+  ⚡ Apasionado por la tecnología y la resolución de problemas mediante soluciones creativas e innovadoras.
+  
+  🌟 Experiencia en proyectos personales y para clientes, con enfoque en la calidad, la organización y el aprendizaje continuo.
+  
+  🎯 En busca de nuevas oportunidades como desarrollador web frontend, para enfrentar nuevos retos, aportar mis conocimientos y transformar ideas en soluciones digitales impactantes.
+  
+  📫 Contacto: holiver.ccora.quispe@gmail.com
+</p>
 
-🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el noveno ciclo.
-
-⚡ Apasionado por la tecnología y la resolución de problemas mediante soluciones creativas e innovadoras.
-
-🌟 Experiencia en proyectos personales y para clientes, con enfoque en la calidad, la organización y el aprendizaje continuo.
-
-🎯 En busca de nuevas oportunidades como desarrollador web frontend, para enfrentar nuevos retos, aportar mis conocimientos y transformar ideas en soluciones digitales impactantes.
-
-📫 Contacto: holiver.ccora.quispe@gmail.com | [Tu LinkedIn] | [Tu portafolio web]
-<!-- ... 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**-->
-<!--Intro end-->
-  </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgresql,py,git,github" />
   </a>
 </p>
 <br>
-<!-------------------------->
+
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Algunos proyectos 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">

@@ -1,27 +1,35 @@
 <h1 align="center">Hola 👋 soy Jhunior / Desarrollador Frontend ✨ </h1> 
-
+<br>
 <p align="left">
-  <!--   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a> -->
-  <!-- <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a> -->
   <a href="https://www.linkedin.com/in/holiver-ccora-quispe-0a0642258" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://wa.me/936128801" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://www.facebook.com/holiver.jhunior" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="JhuniorCq" /></a>
-  <a href = "mailto:holiver.ccora.quispe@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhuniorCq" /></a>
+  <a href="mailto:holiver.ccora.quispe@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhuniorCq" /></a>
+  <a href="https://portafolio-jhunior-ccora.vercel.app/" target="_blank" ><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="JhuniorCq" /></a>
 </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+👨‍💻 <strong>DESARROLLADOR WEB FRONTEND</strong>
 
+🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el noveno ciclo.
+
+⚡ Apasionado por la tecnología y la resolución de problemas mediante soluciones creativas e innovadoras.
+
+🌟 Experiencia en proyectos personales y para clientes, con enfoque en la calidad, la organización y el aprendizaje continuo.
+
+🎯 En busca de nuevas oportunidades como desarrollador web frontend, para enfrentar nuevos retos, aportar mis conocimientos y transformar ideas en soluciones digitales impactantes.
+
+📫 Contacto: holiver.ccora.quispe@gmail.com | [Tu LinkedIn] | [Tu portafolio web]
+<!-- ... 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **unsimpledev@gmail.com**-->
 <!--Intro end-->
   </p>
 <br>

@@ -33,10 +33,6 @@
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 
 <p align="left">
-<!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgresql,py,git,github" />
-  </a>
-  <br><br> -->
   <span>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -58,7 +54,7 @@
 
   <!-- Proyecto 1: Miskito -->
   <div style="margin-bottom: 30px;">
-    <h3>Miskito 🌽</h3>
+    <h3>La Mesa Peruana 🌽</h3>
     <p>
       Una página web dedicada a los deliciosos platos típicos del Perú, que además incluye un 
       chatbot interactivo impulsado por la IA "Gemini", para ayudar a los usuarios a descubrir recetas y más información sobre la gastronomía peruana.

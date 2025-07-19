@@ -17,7 +17,7 @@
 <p align="left">
   👨‍💻 <strong>DESARROLLADOR WEB FRONTEND</strong>
   
-  🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el noveno ciclo.
+  🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el décimo ciclo.
   
   ⚡ Apasionado por la tecnología y la resolución de problemas mediante soluciones creativas e innovadoras.
   
@@ -41,11 +41,11 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </span>
 </p>
@@ -54,7 +54,46 @@
 <div id="proyectos">
   <h2>Algunos proyectos 👨🏻‍💻</h2>
 
-  <!-- Proyecto 1: Miskito -->
+  <!-- Proyecto: HouseWorth -->
+  <div style="margin-bottom: 30px;">
+    <h3>HouseWorth 🏠</h3>
+    <p>
+      Aplicación web que predice precios de viviendas en Ames, E.E.U.U., usando inteligencia artificial. 
+      Permite predicciones mediante formularios o archivos Excel y muestra un historial de resultados.
+    </p>
+    <p>
+      <strong>Tecnologías:</strong>
+      <br><br>
+      <span>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" alt="AI" />
+      </span>
+    </p>
+    <p>
+      <strong>Repositorios:</strong>
+      <br><br>
+      <a href="https://github.com/JhuniorCq/houseworth-frontend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
+      </a>
+      <a href="https://github.com/JhuniorCq/houseworth-backend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Backend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Backend del Proyecto" />
+      </a>
+      <a href="https://github.com/JhuniorCq/houseworth-ia.git" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20IA%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver IA del Proyecto" />
+      </a>
+    </p>
+  </div>
+
+  <!-- Proyecto: Miskito -->
   <div style="margin-bottom: 30px;">
     <h3>La Mesa Peruana 🌽</h3>
     <p>
@@ -80,7 +119,7 @@
     </p>
   </div>
 
-  <!-- Proyecto 2: PokeAPI -->
+  <!-- Proyecto: PokeAPI -->
   <div style="margin-bottom: 30px;">
     <h3>PokeAPI 🐾</h3>
     <p>
@@ -106,7 +145,7 @@
     </p>
   </div>
 
-  <!-- Proyecto 3: Policia vs Ladron -->
+  <!-- Proyecto: Policia vs Ladron -->
   <div style="margin-bottom: 30px;">
     <h3>Policía vs Ladrón 🚔</h3>
     <p>
@@ -122,11 +161,12 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
         <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" alt="AI" />
       </span>
     </p>
     <p>
-      <strong>Repositorio:</strong>
+      <strong>Repositorios:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/policia_vs_ladron_vista.git" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
@@ -137,7 +177,7 @@
     </p>
   </div>
 
-  <!-- Proyecto 4: StyleHub -->
+  <!-- Proyecto: StyleHub -->
   <div style="margin-bottom: 30px;">
     <h3>StyleHub 👗</h3>
     <p>
@@ -159,7 +199,7 @@
       </span>
     </p>
     <p>
-      <strong>Repositorio:</strong>
+      <strong>Repositorios:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/style-hub-frontend.git" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
@@ -170,7 +210,7 @@
     </p>
   </div>
 
-  <!-- Proyecto 5: Convertidor de Youtube a MP3 -->
+  <!-- Proyecto: Convertidor de Youtube a MP3 -->
   <div style="margin-bottom: 30px;">
     <h3>Convertidor de YouTube a MP3 🎵</h3>
     <p>
@@ -190,7 +230,7 @@
       </span>
     </p>
     <p>
-      <strong>Repositorio:</strong>
+      <strong>Repositorios:</strong>
       <br><br>
       <a href="https://github.com/JhuniorCq/convertidor-musica-frontend.git" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Frontend%20del%20Proyecto-0073e6?style=flat&logo=github&logoColor=white" alt="Ver Frontend del Proyecto" />
@@ -201,7 +241,7 @@
     </p>
   </div>
 
-  <!-- Proyecto 6: Tic Tac Toe -->
+  <!-- Proyecto: Tic Tac Toe -->
   <div style="margin-bottom: 30px;">
     <h3>Tic Tac Toe ❌⭕</h3>
     <p>

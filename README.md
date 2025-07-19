@@ -2,19 +2,19 @@
 
 <br>
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/holiver-ccora-quispe-0a0642258" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://wa.me/936128801" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://www.facebook.com/holiver.jhunior" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="JhuniorCq" /></a>
   <a href="mailto:holiver.ccora.quispe@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhuniorCq" /></a>
   <a href="https://portafolio-jhunior-ccora.vercel.app/" target="_blank" ><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="JhuniorCq" /></a>
-</p>
+</div>
 
 <br>
 
 <h2>Sobre mi 😃</h2>
 
-<p align="left">
+<div align="left">
   👨‍💻 <strong>DESARROLLADOR WEB FRONTEND</strong>
   
   🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, actualmente en el décimo ciclo.
@@ -26,14 +26,14 @@
   🎯 En busca de nuevas oportunidades como desarrollador web frontend, para enfrentar nuevos retos, aportar mis conocimientos y transformar ideas en soluciones digitales impactantes.
   
   📫 Contacto: holiver.ccora.quispe@gmail.com
-</p>
+</div>
 
 <br>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 
-<p align="left">
-  <span>
+<div>
+  <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -47,8 +47,24 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </span>
-</p>
+  </div>
+</div>
+
+<br>
+
+<h2>Experiencia 💼</h2>
+
+<div>
+  <h3>DevDatep Consulting 💻</h3>
+  <p><strong>Practicante Pre-profesional – Desarrollador Frontend</strong></p>
+  <p><em>Remoto · 3 meses</em></p>
+  <ul>
+    <li>Desarrollé interfaces intuitivas y responsivas para la plataforma web <strong>Arena Freestyle</strong>, usando <strong>React</strong>, <strong>TypeScript</strong>, <strong>TailwindCSS</strong> y <strong>Redux Toolkit</strong>.</li>
+    <li>Lideré el equipo frontend, coordinando tareas, revisando entregas y asegurando la calidad del código.</li>
+    <li>Participé en la identificación y corrección de errores para garantizar componentes funcionales y optimizados.</li>
+  </ul>
+</div>
+
 <br>
 
 <div id="proyectos">
